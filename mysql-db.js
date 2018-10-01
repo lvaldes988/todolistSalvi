@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: 'open',
-  database: 'todo'
+  database: 'todolist'
 });
 
 connection.connect();
