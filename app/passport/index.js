@@ -122,8 +122,8 @@ module.exports = function (passport) {
                 var smtpTransport = nodemailer.createTransport({
                   service: 'gmail',
                   auth: {
-                    user: 'acostaadrian21@gmail.com',
-                    pass: 'Acosta0365492'
+                    user: 'almalopezxxx@gmail.com',
+                    pass: 'lopezalma15'
                   }
                 });
                 var mailOptions = {
